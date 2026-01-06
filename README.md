@@ -10,7 +10,7 @@ Une API REST simple et complète pour gérer des employés, développée avec **
 - Mettre à jour un employé (PUT)
 - Supprimer un employé (DELETE)
 
-# Employee API - Spring Boot REST CRUD
+# PERSONNE API - Spring Boot REST CRUD
 
 ## Fonctionnalités
 
