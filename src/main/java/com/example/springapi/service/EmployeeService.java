@@ -2,7 +2,7 @@ package com.example.springapi.service;
 
 
 import com.example.springapi.model.Employee;
-import com.example.springapi.model.Employee;
+
 import com.example.springapi.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
